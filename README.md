@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anthonyarmijo
-- 👀 I’m interested in virtualization, cloud, containers.
-- 🌱 I’m currently learning AWS architecture and hope to deep dive into Linux, Python, and microservices.
+- 👀 I’m interested in automation, cloud, and microservice architectures.
+- 🌱 I’m currently learning AWS and hope to deep dive into Linux, Python, and container orchestration.
+- 🧠 My experience lies in Windows enterprise support, PowerShell, and Citrix infrastructure
 - 📫 Reach me via email: anthony.armijo@icloud.com
 
 <!---
