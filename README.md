@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anthonyarmijo
 - 👀 I’m interested in automation, cloud, and microservice architectures
-- 🌱 I’m currently building my Linux & Ansible skills, and plan to dive into Python & container orchestration
+- 🌱 I’m currently building my Linux & Ansible skills, and plan to dive further into development pipelines & 
+container orchestration.
 - 🧠 My experience lies in Windows enterprise support, PowerShell, and Citrix infrastructure
 - 📫 Reach me via email: anthony.armijo@icloud.com
 
