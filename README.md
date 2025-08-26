@@ -46,7 +46,9 @@ Over time, I’ll be incorporating **production-grade tools and techniques** suc
 - Route 53 (DNS & traffic routing)  
 - Multi-branch deployment strategies  
 - Load balancing & auto-scaling  
-- Observability & monitoring practices ---
+- Observability & monitoring practices
+
+---
 
 ## 📫 Connect with Me  
 📧 Email: **anthony.armijo@icloud.com**  
