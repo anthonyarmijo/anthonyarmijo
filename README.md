@@ -37,6 +37,17 @@ I’m a **Cloud Systems Administrator** (contractor, U.S. Navy – PKI Engineeri
 
 ---
 
+## 🌐 My Website  
+Check out **[anthonyarmijo.com](https://anthonyarmijo.com)** — built with **Jekyll**, automated with **GitHub Actions**, and hosted on **AWS S3 + CloudFront**.  
+I’ll be using it to share the steps I take in building the platform, along with my notes, guides, and lessons learned in **DevOps, cloud, and automation**.  
+
+Over time, I’ll be incorporating **production-grade tools and techniques** such as:  
+- AWS ACM (certificates & TLS management)  
+- Route 53 (DNS & traffic routing)  
+- Multi-branch deployment strategies  
+- Load balancing & auto-scaling  
+- Observability & monitoring practices ---
+
 ## 📫 Connect with Me  
 📧 Email: **anthony.armijo@icloud.com**  
 🔗 LinkedIn: [linkedin.com/in/anthony-armijo](https://linkedin.com/in/anthony-armijo)  
