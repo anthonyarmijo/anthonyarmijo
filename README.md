@@ -1,13 +1,17 @@
 # 👋 Hi, I’m Anthony (@anthonyarmijo)
 
-I’m a **Cloud Systems Administrator** (contractor, U.S. Navy – PKI Engineering) working toward becoming a **Cloud Platform/DevOps Engineer**. I specialize in **AWS cloud, automation, and secure infrastructure**, and I’m a team player who is passionate about building reliable, scalable systems that help others succeed. 
-
----
+> I’m a **Cloud Systems Administrator** (contractor, U.S. Navy – PKI Engineering) working toward becoming a **Cloud Platform/DevOps Engineer**. I specialize in **AWS cloud, automation, and secure infrastructure**, and I’m a team player who is passionate about building reliable, scalable systems that help others succeed. 
 
 ## 🌐 My Website  
-👉 **[anthonyarmijo.com](https://anthonyarmijo.com)**  
-Built with **Jekyll**, deployed with **Terraform**, automated with **GitHub Actions**, and hosted on **AWS S3 + CloudFront**.  
-I’m using it to document my journey and share knowledge on **DevOps, cloud, and automation** — gradually adding production-grade practices like **Route 53, ACM, multi-branch deployments, scaling, and observability**.  
+👉 **[anthonyarmijo.com](https://anthonyarmijo.com)**
+- Built with **Jekyll**
+- Deployed with **Terraform**
+- Automated with **GitHub Actions**
+- Hosted on **AWS S3 + CloudFront**.  
+
+I’m using this website to document my journey and share knowledge on **DevOps, cloud, and automation** — gradually adding production-grade practices like **Route 53, ACM, multi-branch deployments, scaling, and observability**.
+
+> Check out my website repository here: https://github.com/anthonyarmijo/anthonyarmijo.com
 
 ---
 
