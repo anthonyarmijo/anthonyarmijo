@@ -11,7 +11,7 @@
 
 I’m using this website to document my journey and share knowledge on **DevOps, cloud, and automation** — gradually adding production-grade practices like **Route 53, ACM, multi-branch deployments, scaling, and observability**.
 
-> Check out my website repository here: https://github.com/anthonyarmijo/anthonyarmijo.com
+> Check out the repository here: https://github.com/anthonyarmijo/anthonyarmijo.com
 
 ---
 
